@@ -1,0 +1,2 @@
+behave==1.2.7.dev2
+selenium==3.141.0
